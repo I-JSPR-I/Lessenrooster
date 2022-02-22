@@ -1,25 +1,22 @@
 table, th, td {
-  border: 1px solid black;
-color: black;
-    background-color: white;
-    border-color: white;
+	border: 1px solid black;
+	color: black;
+	background-color: white;
+	border-color: white;
 }
-table, th, td, p{
-text-align: center;
+table, th, td, p {
+	text-align: center;
 }
-.td1{
-    background-color: red;
-    color: white;
-    font-weight: 800;
+.td1 {
+	background-color: red;
+	color: white;
+	font-weight: 800;
 }
-.row1{
-    background-color: gainsboro;
+.row1 {
+	background-color: gainsboro;
 }
-
-.table1{
-   
-}
+.table1 {}
 table, th, td:hover {
-  color: white;
-    background-color: black;
+	color: white;
+	background-color: black;
 }
